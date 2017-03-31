@@ -4,7 +4,7 @@ Artificial Neural Network (ANN) is an algorithm that applies data-processing str
 
 This project contains ANN code written in Python 2. Two types of xor are used to test the code. Remember that the input includes a bias "1" in its rightmost column.
 
-If you have any question, do not hesitate to contact me through my website or email.
+If you have any question, do not hesitate to contact me via website or email.
 
 mail: limetree377@gmail.com
 website: http://chaeyoung.creatorlink.net
