@@ -6,7 +6,7 @@ This project contains ANN code written in Python 2. Two types of xor are used to
 
 If you have any question, do not hesitate to contact me through my website or email.
 
-limetree377@gmail.com
-http://chaeyoung.creatorlink.net
+mail: limetree377@gmail.com
+website: http://chaeyoung.creatorlink.net
 
 Thank you.
