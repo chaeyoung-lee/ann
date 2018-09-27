@@ -1,9 +1,4 @@
-"""
-2017.03.23 Copyright Chae Young Lee
-Artificial Neural Network
-limetree377@gmail.com
-http://chaeyoung.creatorlink.net
-"""
+
 
 import numpy as np
 
