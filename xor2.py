@@ -16,7 +16,6 @@ input_size = x.shape[1] # original input + bias
 hidden_size = 4
 output_size = 1
 alpha = 0.1    # learning rate
-falpha = 5
 
 
 # weights
